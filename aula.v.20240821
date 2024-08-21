@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>PHP Test</title>
+</head>head>
+<body>
+<h2>PHP Test</h2>h2>
+    <form method="post">
+                    <label for="num1">Número 1:</label>label>
+                                <input type="number" name="num1" id="num1" required>
+                    <label for="num2">Número 2:</label>label>
+                                <input type="number" name="num2" id="num2" required>
+                </p>p>
+                <input type="submit" value="Verificar">
+    </form>form>
